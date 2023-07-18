@@ -42,4 +42,5 @@ To run the tests:
 
 💡 Hint: make sure you're in the correct folder before running this command! 😉
 
+
 _Note: there is a place for both imperative and declarative styles of programming. However, declarative programming is often favoured for being more readable._

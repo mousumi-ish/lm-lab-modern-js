@@ -8,6 +8,5 @@ Can you use Object Destructuring to save a bit of code?
 
 To run the tests:
 
-            npm test destructuring_objects.test.js
-
+npm test destructuring_objects.test.js
 Hint: make sure you're in the correct folder before running this command

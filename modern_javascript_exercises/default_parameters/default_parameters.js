@@ -2,4 +2,5 @@
 
 export const sayHello = (person) => {
   return `Hello, ${person === undefined ? "you!" : person + "!"}`;
+  //console.log(`Hello,$ {person}!`);
 };

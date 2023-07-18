@@ -4,5 +4,6 @@
  */
 
 export function allTheNumbers(numbers, moreNumbers) {
-  return [];
+  numbers.push(...moreNumbers);
+  return numbers;
 }

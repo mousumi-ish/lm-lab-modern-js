@@ -38,4 +38,4 @@ variable needs to be reassigned! 👍
 
 To run the file use:
 
-            node const_vs_let.js
+node const_vs_let.js
